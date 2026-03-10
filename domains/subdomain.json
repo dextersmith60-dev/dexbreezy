@@ -1,9 +1,11 @@
 {
     "owner": {
-        "username": "github-username",
-        "email": "[email protected]"
+        "username": "_github-pages-challenge-dextersmith60-dev",
+        "email": "dextersmith60@gmail.com"
     },
     "records": {
-        "CNAME": "github-username.github.io"
+        "type": "TXT",
+        "host": "_github-pages-challenge-dextersmith60-dev",
+        "value": "c9533693169f2f355ef4ff9a77584d"
     }
 }
