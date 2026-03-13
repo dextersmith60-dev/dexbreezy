@@ -1,9 +1,12 @@
 {
+    "domain": "dexbreezy",
+    "subdomain": "is-a.dev",
     "owner": {
         "username": "dextersmith60-dev",
-        "email": "dextersmith60@gmail.com"
+        "email": "your-email@example.com"
     },
-    "records": {
+    "record": {
         "CNAME": "dextersmith60-dev.github.io"
-    }
+    },
+    "proxied": false
 }
