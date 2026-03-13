@@ -1,0 +1,50 @@
+{
+  "short_name": "dexbreezy",
+  "name": "dexbreezy | Visionary 2026",
+  "description": "Creative Developer & Minimalist Digital Architect.",
+  "id": "/?source=pwa",
+  "start_url": "/?utm_source=pwa",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay"],
+  "scope": "/",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "categories": ["design", "developer", "portfolio"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Dexbreezy Desktop Experience"
+    },
+    {
+      "src": "screenshots/mobile.png",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Dexbreezy Mobile Interface"
+    }
+  ]
+}
